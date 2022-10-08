@@ -61,7 +61,7 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 <td><img src="Resources/Dec_sts.png" width="275"/></td>
 </tr></table>
 
-- To show the frequency centers around the means, the temperatures of June and December are grouped into 15 bins. With mean at 75°F, June histogram has more data distributed to the left giving it a left tail. We can conclude that this data has slight left skew. With mean of 71°F, December histogram has data almost equally distributed on either side of the curve (normal bell curve distribution).
+- It can also be observed that the temperatures recorded in December vary more than those in June. To show the frequency centers around the means, the temperatures of June and December are grouped into 15 bins. With mean at 75°F, June histogram has more data distributed to the left giving it a left tail. We can conclude that this data has slight left skew. With mean of 71°F, December histogram has data almost equally distributed on either side of the curve (normal bell curve distribution). 
 <table align="center">
 <tr>
 <td><img src="Resources/Temps_jun.png" width="400"/></td>
@@ -71,7 +71,7 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 
 ## Summary
 
-- With the above observations, it can be concluded that the temperatures recorded in December vary more than those in June.  However, December would still provide appropriate weather conditions for surfing and demand for ice cream because the average temperatures in June and December only differ by 4°F. Since temperatures alone do not give a whole picture of weather patterns, additional information as specified below should be gathered before proceeding with this venture. 
+With the above observtions, it can be concluded that the temperatures in Oahu are relatively the same throughout the year. The surf and ice cream shop business is sustainable year-round with the recorded temperature patterns. Since temperatures alone do not give a whole picture of weather patterns, additional information as specified below should be gathered before proceeding with this venture. 
 
 - Similar to analyzing temperatures for months of June and December, precipitation data can also be compared between the two months to determine rainy weather patterns.
 <table align="center">
@@ -81,4 +81,4 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 </tr>
 </table>
 
-- The temperature and precipitation data from the weather station close to the prospective location of Surf n' Shake can be retrieved to study the temperature and precipitation patterns.   
+- The temperature and precipitation data from the weather station close to the prospective location of Surf n' Shake can be retrieved for June and December or for all months to determine the patterns in that geography. 
