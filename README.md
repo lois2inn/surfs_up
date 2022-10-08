@@ -31,11 +31,11 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 ## Results
 - Pandas, SQLAlchemy ORM and Matplotlib modules are used extensively to generate the results. 
 
-### Precipitation Details for Oahu :
+### Precipitation Analysis:
 
 - During 23 Aug 2016 and 23 Aug 2017, months like April, May, August, September have higher amounts of precipitation than others. 
 - Sep 2016 shows the day with highest precipitation of 6.7 inches.
-- Precipitation was observed 2021 times in that time period.
+- Precipitation was observed 2021 times in that time period. Looking at the mean precipitation, it can ve concluded that Oahu has many sunny days compared to rainy days.
 <table align="center">
 <tr>
 <td><img src="Resources/Prcp_Oahu.png" width="400"/></td>
@@ -46,16 +46,16 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 ### Station Information: 
 
 - Among the 9 stations from which precipitation data is being collected, the most active station is WAIHEE 837.5, HI, US. 
-- The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees for this station. 
+- For this station, The results show that the low (minimum) temperature is 54°F, the high (maximum) temperature is 85°F, and the average temperature is approximately 71.7°F. 
 - The temperatures from the most active station show that a vast majority of the observations were over 67 degrees.  
 
 <table align="center"><tr><td><img src="Resources/Temps_obs.png" width="400"/></td></tr></table>
 
-### Temperature Analysis
+### Temperature Analysis:
 
 - The month of June has higher mean temperature of 75°F when compared to 71°F in December. With just a difference of 4°F between the two months, little fluctuaton of temperatures is observed.
 - The maximum temperatures of 83°F in June and 85°F in December are also remarkably similar.
-- The minimum temperature of 56°F in December and 64°F in June show the greatest variance. The lower temperature level in December may not be conducive to ice cream or surfing, however a standard deviation of 3.75 suggests that the temperatures are not widely spread out. 
+- The minimum temperature of 56°F in December and 64°F in June show the greatest variance. The lower temperature level in December may not be conducive for surfing or ice cream, however a standard deviation of 3.75 suggests that the temperatures are not widely spread out. 
 <table align="center"><tr>
 <td><img src="Resources/Jun_sts.png" width="250"/></td>
 <td><img src="Resources/Dec_sts.png" width="275"/></td>
@@ -71,11 +71,14 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 
 ## Summary
 
-### Summary of Results 
+- With the above observations, it can be concluded that the temperatures recorded in December vary more than those in June.  However, December would still provide appropriate weather conditions for surfing and demand for ice cream because the average temperatures in June and December only differ by 4°F. Since temperatures alone do not give a whole picture of weather patterns, additional information as specified below should be gathered before proceeding with this venture. 
 
-- High level Summary of results
+- Similar to analyzing temperatures for months of June and December, precipitation data can also be compared between the two months to determine rainy weather patterns.
+<table align="center">
+<tr>
+<td><img src="Resources/Prcp_jun.png" width="400"/></td>
+<td><img src="Resources/Prcp_dec.png" width="400"/></td>
+</tr>
+</table>
 
-### Additional Queries 
-
-- Two additional queries that you would perform 
-- to gather more weather data for June and December.
+- The temperature and precipitation data for all weather stations can also be retrieved. The weather station close to the prospective location can be analyzed in detail to study the temperature and precipitation patterns.   
