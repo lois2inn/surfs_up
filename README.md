@@ -71,9 +71,9 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 
 ## Summary
 
-With the above observtions, it can be concluded that the temperatures in Oahu are relatively the same throughout the year. The surf and ice cream shop business is sustainable year-round with the recorded temperature patterns. Since temperatures alone do not give a whole picture of weather patterns, additional information as specified below should be gathered before proceeding with this venture. 
+With the above observations, it can be concluded that the temperatures in Oahu are relatively the same throughout the year. The surf and ice cream shop business is sustainable year-round with the recorded temperature patterns. Since temperatures alone do not give a whole picture of weather patterns, precipitation information as specified below should be gathered before proceeding with this venture. 
 
-- Similar to analyzing temperatures for months of June and December, precipitation data can also be compared between the two months to determine rainy weather patterns.
+- Precipitation data can be compared between the June and December across years and across stations to determine rainy weather patterns.
 <table align="center">
 <tr>
 <td><img src="Resources/Prcp_jun.png" width="400"/></td>
