@@ -81,4 +81,4 @@ An investor interested in opening a Surf n' Shake shop in Oahu, Hawaii has aske
 </tr>
 </table>
 
-- The temperature and precipitation data for all weather stations can also be retrieved. The weather station close to the prospective location can be analyzed in detail to study the temperature and precipitation patterns.   
+- The temperature and precipitation data from the weather station close to the prospective location of Surf n' Shake can be retrieved to study the temperature and precipitation patterns.   
